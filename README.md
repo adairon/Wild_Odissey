@@ -19,3 +19,5 @@ Git status vous indiquera alors :
 cela signifie qu'aucun fichier modifié n'est à commit, votre dossier est "clean" !
 maintenant, pour pusher vos modifications vers votre dépot GitHub correspondant, entrez simplement la commande :
 	git push origin master
+Et voilà ! Vous savez maintenant créer un nouveau commit et le pusher sur votre dépot GitHub !
+Maintenant, si vous ne savez pas comment mettre en place git, se synchroniser avec GitHub, indexer un fichier dans git ou même utiliser les queslques commandes basiques de navigation dans les dossiers dans le terminal...Alors référez vous aux deux liens au début de ce document, vous y trouverez des informations très intéressantes !
